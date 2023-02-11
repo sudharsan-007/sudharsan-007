@@ -23,7 +23,6 @@
 
 <br/>  
 
-<hr>
 <h2 align="center">My Skill Set </h2>
 
 <table><tr><td valign="top" width="33%">
@@ -58,7 +57,6 @@
 
 <br/>  
 
-<hr>
 <h2 align="center">Connect with me</h2>
  
 <div align="center">
@@ -81,7 +79,6 @@
   
 <br/> 
 
-<hr> 
 <h2 align="center">Github Stats  </h2>
 
 
