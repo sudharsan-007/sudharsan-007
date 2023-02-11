@@ -23,8 +23,8 @@
 
 <br/>  
 
-<h2 align="center">My Skill Set </h2>
 <hr>
+<h2 align="center">My Skill Set </h2>
 
 <table><tr><td valign="top" width="33%">
 
@@ -58,9 +58,8 @@
 
 <br/>  
 
-
-<h2 align="center">Connect with me</h2>
 <hr>
+<h2 align="center">Connect with me</h2>
  
 <div align="center">
 <a href="https://github.com/sudharsan-007" target="_blank">
@@ -80,10 +79,10 @@
 </a>
 </div>  
   
-
 <br/> 
-<h2 align="center">Github Stats  </h2>
+
 <hr> 
+<h2 align="center">Github Stats  </h2>
 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudharsan-007&show_icons=true&count_private=true&hide_border=true" width="70%" align="center" /></div>  
