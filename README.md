@@ -84,12 +84,13 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudharsan-007&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="70%" align="center" /></div>  
 
+<div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharsan-007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sudharsan-007" width="70%" align="center"/></div> 
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sudharsan-007&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsan-007" />
 </div>  
-  
+</div>  
 
 <br/>  
 
