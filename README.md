@@ -82,7 +82,7 @@
 <h2 align="center">Github Stats  </h2>
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudharsan-007&show_icons=true&count_private=true&hide_border=true" width="70%" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sudharsan-007&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="70%" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudharsan-007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sudharsan-007" width="70%" align="center"/></div> 
   
