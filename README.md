@@ -16,7 +16,7 @@
 
 - 📫 How to reach me Sudharsan.ananth@gmail.com
 
-- 😄 Pronouns: HE, HIM, HIS, HIS, HIMSELF
+- 😄 Pronouns: HE, HIM, HIS, HIMSELF
   
 - ⚡ Fun fact: I use tabs over spaces  
   
